@@ -1,24 +1,7 @@
-# README
+A login form using html and css.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Original code https://www.codingnepalweb.com/popup-login-form-design-html-css/
 
-Things you may want to cover:
+Changed the color scheme, added a highlighted input box among a few other changes.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Purpose of this exercise was to understand front-end development.
